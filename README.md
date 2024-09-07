@@ -1,0 +1,1 @@
+This Weather App is a simple and intuitive web application built with ReactJS that allows users to check the current weather conditions of any city around the world. It fetches real-time weather data using the OpenWeatherMap API and displays key information such as temperature, weather conditions, humidity, wind speed, and more.
